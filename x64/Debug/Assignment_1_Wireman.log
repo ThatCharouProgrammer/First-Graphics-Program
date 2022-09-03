@@ -1,0 +1,13 @@
+﻿  Wireman.cpp
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(49,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(56,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(62,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(63,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(69,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(70,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(77,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(78,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(85,24): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(86,32): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\Wireman.cpp(95,12): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+  Assignment_1_Wireman.vcxproj -> C:\Users\sashi\OneDrive\Desktop\Semester 2\COMP 307\Assignment\Assignment_1_Wireman\x64\Debug\Assignment_1_Wireman.exe
